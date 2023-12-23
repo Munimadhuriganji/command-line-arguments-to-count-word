@@ -26,7 +26,7 @@ Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
 ```
-Developed by : GANJI MUNI MADHURI
+Developed by : GANJI MUNI MADHURIS
 Registered number : 212223230060
 
 import sys
@@ -38,7 +38,7 @@ print("Total Words:",len(words))
 ```
 ### OUTPUT:
 ![output](/Screenshot%202023-12-23%20184622.png)
-![output](/Screenshot%202023-12-23%20184622-1.png)
+![output](/Screenshot%202023-12-23%20185608.png)
 
 
 ## RESULT:
